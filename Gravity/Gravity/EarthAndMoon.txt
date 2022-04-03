@@ -1,0 +1,24 @@
+step size:	50000.
+scale:		5000000.
+-
+mass		5.97237E24
+position:
+x		0.
+y		0.
+z		0.
+velocity:
+x		0.
+y		-11.780
+z		0.
+radius		6.371E6
+-
+mass		7.342E22
+position:
+x		405504000.
+y		0.
+z		0.
+velocity:
+x		0.
+y		958.220
+z		0.
+radius		1.7374E6
